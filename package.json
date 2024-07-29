@@ -1,0 +1,15 @@
+{
+  "name": "@codepush-app/cli",
+  "version": "0.0.1",
+  "description": "Cli for creating an publishing bundles for codepush.app servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "codepush-app": "index.js"
+  },
+  "keywords": [],
+  "author": "Codepush.app",
+  "license": "ISC"
+}
